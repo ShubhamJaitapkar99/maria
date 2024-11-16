@@ -60,7 +60,7 @@ You will have to generate your own API keys for the below,
 - Serper
 - Akool
 
-Refer to the .env.example file in the repository and create a .env file with your specific configuration values.
+Refer to the .example.env file in the repository and create a .env file with your specific configuration values.
 
 7. Running the Project
 Once your environment is set up, you can run the project by executing:
