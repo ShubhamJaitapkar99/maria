@@ -2,3 +2,13 @@ streamlit
 websockets
 requests
 asyncio
+openai
+runwayml
+python-dotenv
+requests
+streamlit
+crewai
+pandas
+datetime
+crewai-tools
+opencv-python
