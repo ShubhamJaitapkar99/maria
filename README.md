@@ -20,8 +20,10 @@ To get started with the project, follow the steps below:
 
 First, clone the project repository to your local machine:
 
-```bash
+```
 git clone https://github.com/ShubhamJaitapkar99/maria
+```
+```
 cd maria
 ```
 
@@ -52,11 +54,11 @@ pip install -r requirements.txt
 
 5. Setup of API keys
 You will have to generate your own API keys for the below,
-1. Runway
-2. OpenAI
-3. Leonardo
-4. Serper
-5. Akool
+- Runway
+- OpenAI
+- Leonardo
+- Serper
+- Akool
 
 Refer to the .env.example file in the repository and create a .env file with your specific configuration values.
 
